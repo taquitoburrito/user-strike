@@ -19,6 +19,8 @@ included in leaks)
 
 -Use mental profile to ID mental disorders
 
+-Create a web interface to easily sort through found data and to easily search targets
+
 
 I am not responsible for how people use this, I'm making a tool to show how we've given up privacy. 
 
