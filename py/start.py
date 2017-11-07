@@ -12,11 +12,11 @@ if ans == '1':
         else:
             LastName = input("What is " + FirstName + "'s Last name?")
         CorrectName = input('Is ' + FirstName + ' ' + LastName + ' Correct? Y/N')
-        if CorrectName == 'y' or 'Y' or 'yes' or 'YES':
+if CorrectName == 'y' or 'Y' or 'yes' or 'YES':
 
-        else:
-            ans = input('Would you like to restart? Y/N')
-            if ans == 'y' or 'Y' or 'yes' or 'YES':
+            else:
+                ans = input('Would you like to restart? Y/N')
+                if ans == 'y' or 'Y' or 'yes' or 'YES':
                 ######## Add module to restart here ########
     UserTarget = input("What is the target?(User URL) \n")
     yn = input('Is this correct(y/n)? \n' + UserTarget + '\n')
@@ -25,5 +25,6 @@ elif ans == '2':
 elif ans == '3':
     open()
 elif ans == '4':
-    print('Goodbye')
+    input('Goodbye')
     
+def StrData(Knowyn, FirstName, LastName, Usertarget, createArray):
