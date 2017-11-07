@@ -1,11 +1,10 @@
-http://www.twitch.tv/
-http://www.facebook.com/
-http://www.twitter.com/
-http://www.instagram.com/
-http://www.pastebin.com/
-http://www.reddit.com/user/NAME
+http://www.twitch.tv/UNAME
+http://www.facebook.com/UNAME
+http://www.twitter.com/UNAME
+http://www.instagram.com/UNAME/?hl=en
+http://www.reddit.com/user/UNAME
 http://www.NAME.tumblr.com/
-http://www.linkedin.com/
+http://www.linkedin.com/in/NAMEID
 http://www.imgur.com/user/NAME
 http://www.flickr.com/photos/NAMEID
 http://www.plus.google.com/u/0/NAME
@@ -13,3 +12,4 @@ http://www.pinterest.com/NAME
 http://www.yelp.com/user_details?userid=NAMEID
 http://www.youtube.com/channel/NAMEID
 http://www.NAME.deviantart
+http://www.github.com/UNAME
