@@ -13,10 +13,13 @@ def anscase(ans):
         quit
 
 def singleU ():
+    #finds the target
     UserTarget = input("What is the target?(User URL) \n")
+    inquireIfKnown()
     
 
 def multiU():
+    #creates an array to search through
     createArray = []
     while True:
         toAdd = input('To (To end just hit enter)')
@@ -27,9 +30,11 @@ def multiU():
     
 
 def foundProfiles():
+    #opens a txt file and presents profiles, these profiles can be selected to be updated, deleted or for further digging
     open()
 
 def inquireIfKnown():
+    #find out any additional information about targets
     knownYN.lower() = input('Do you already know some information about the target? Y/N (Selecting Yes will inquire about their name, alieses, known profiles, etc.)')
     if knownYN == 'y':
         FirstName = input("What is the Targets First Name? (If unknown just hit 'Enter')")
@@ -45,7 +50,8 @@ def inquireIfKnown():
     else:
         inquireIfKnown()
         
-            
+def heavyLifting(FirstName, LastName, CorrectName, createArray, UserTarget):
+    #Here is where the search will start
             
     
 
