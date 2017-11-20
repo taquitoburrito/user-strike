@@ -48,11 +48,23 @@ def inquireIfKnown():
     else:
         inquireIfKnown()
         
-def heavyLifting(FirstName, LastName, CorrectName, createArray, UserTarget):
-    #Here is where the search will start
+def FaceLift(FirstName, LastName, CorrectName, createArray, UserTarget):
+    #Facebook search
             
     print('Starting User Search')
 
+def TwitTwat():
+    #Twitter search
+
+
+
+def Instafind():
+    #Instagram Search
+
+
+
+def Redrum():
+    #Reddit search
 
 print('Welcome to User Strike \n This is an information intelligence program to track and classify individuals \n You are responsible for any information you discover using this program. \n If you have any questions or suggestions please email me at tburrito@usa.com')
 ans = input('What would you like to do? \n 1. Find new user \n 2. Find multiple users \n 3.Look at found profiles \n 4. Quit \n')
