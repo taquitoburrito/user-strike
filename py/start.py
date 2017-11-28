@@ -48,10 +48,13 @@ def inquireIfKnown():
     else:
         inquireIfKnown()
         
-def FaceLift(FirstName, LastName, CorrectName, createArray, UserTarget):
+def FaceLift(CorrectName, UserTarget):
     #Facebook search
             
-    print('Starting User Search')
+    print('Starting User Search /n')
+    if CorrectName == '':
+        
+        
 
 def TwitTwat():
     #Twitter search
