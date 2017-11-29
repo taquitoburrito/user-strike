@@ -11,7 +11,7 @@ risky, it should be noted this may have an opposite effect, Person A might decid
 bad light. Situations like this could be circumvented by showing anti-extremist posts to Person B, Person B may be trusted by Person A and 
 may post about the inhumanity of said extremists, posts by person B will then be shown to Person A and it could prevent sympthization. 
 The mental profile also stated below could be used to identify mental disorders (schizophrenia, depression, sociopathy, etc.) and help
-that individual seek help.
+that individual seek help. Using the FBIs warning signs for serial killers although unlikely it could be possible to find a serial murderer or to find those at risk for becoming one.
 
 Goals:
 ------------------------------------------------------------------------------------------------------------------------------------------
