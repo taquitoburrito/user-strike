@@ -1,4 +1,4 @@
-import os
+import os, webbrowser, sys
 def anscase(ans):
     if ans == '1':
         singleU()
@@ -32,6 +32,9 @@ def foundProfiles():
 
 def inquireIfKnown():
     #find out any additional information about targets
+
+#add search question for usernames and alieses, known profiles
+    
     knownYN = input('Do you already know some information about the target? Y/N (Selecting Yes will inquire about their name, alieses, known profiles, etc.)')
     knownYN = knownYN.lower()
     if knownYN == 'y':
@@ -44,7 +47,6 @@ def inquireIfKnown():
     CorrectName = CorrectName.lower()
     if CorrectName == 'y':
         print('')
-
     else:
         inquireIfKnown()
         
@@ -53,7 +55,11 @@ def FaceLift(CorrectName, UserTarget):
             
     print('Starting User Search /n')
     if CorrectName == '':
-        
+        #stuff goes here
+    if UserTarget is not == '':
+        webbrowser.open(UserTarget)
+        #disassemble to find info
+     
         
 
 def TwitTwat():
