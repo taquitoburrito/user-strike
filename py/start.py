@@ -56,23 +56,23 @@ def FaceLift(CorrectName, UserTarget):
     print('Starting User Search /n')
     if CorrectName == '':
         #stuff goes here
-    if UserTarget is not == '':
-        webbrowser.open(UserTarget)
-        #disassemble to find info
+    #if UserTarget is not == '':
+     #   webbrowser.open(UserTarget)
+      #  #disassemble to find info
      
         
 
-def TwitTwat():
+#def TwitTwat():
     #Twitter search
 
 
 
-def Instafind():
+#def Instafind():
     #Instagram Search
 
 
 
-def Redrum():
+#def Redrum():
     #Reddit search
 
 print('Welcome to User Strike \n This is an information intelligence program to track and classify individuals \n You are responsible for any information you discover using this program. \n If you have any questions or suggestions please email me at tburrito@usa.com')
