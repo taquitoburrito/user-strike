@@ -55,7 +55,8 @@ def FaceLift(CorrectName, UserTarget):
             
     print('Starting User Search /n')
     if CorrectName == '':
-        #stuff goes here
+        print("User found")
+    #stuff goes here
     #if UserTarget is not == '':
      #   webbrowser.open(UserTarget)
       #  #disassemble to find info
